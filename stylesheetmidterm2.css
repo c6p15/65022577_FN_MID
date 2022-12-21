@@ -1,0 +1,126 @@
+#title{
+    position: absolute;
+    width: 1440px;
+    height: 87px;
+    left: 0px;
+    top: 0px;
+    background: #7E4D9F;
+}
+#UP{
+    position: absolute;
+    left: 21px;
+    top: 12px;
+}
+#morporlogo{
+    width: 47px;
+    height: 63px;
+}
+button{
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+}
+#Nharagg{
+    position: absolute;
+    width: 103px;
+    height: 33px;
+    left: 107px;
+    top: 27px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    color: rgba(255, 255, 255, 0.65);   
+}
+#NisitTable{
+    position: absolute;
+    width: 121px;
+    height: 33px;
+    left: 249px;
+    top: 12px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    color: rgba(255, 255, 255, 0.65);
+}
+#starntee{
+    position: absolute;
+    width: 175px;
+    height: 33px;
+    left: 421px;
+    top: 16px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+#firstbox{
+    position: absolute;
+    width: 395px;
+    height: 74px;
+    left: 68px;
+    top: 265px;
+    background: #CAC7C7;
+}
+#country{
+    position: absolute;
+    width: 144px;
+    height: 35px;
+    left: 84px;
+    top: 19px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+.box{
+    position: absolute;
+    width: 83px;
+    height: 74px;
+    left: 312px;
+    top: 0px;
+    background: #1F89EB;
+}
+.arrow{
+    width: 41.4px;
+    height: 26px;
+    left: 4.96%;
+    right: 5.05%;
+    top: 25.89%;
+    bottom: 25.97%;
+    margin-top: 23.98px;
+    margin-left: 20.28;
+}
+#secondbox{
+    position: absolute;
+    width: 395px;
+    height: 74px;
+    left: 68px;
+    top: 375px;
+    background: #CAC7C7;
+}
+#boorisus{
+    position: absolute;
+    width: 71px;
+    height: 35px;
+    left: 127px;
+    top: 19px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+#mapbox{
+    width: 746px;
+    height: 730px;
+    left: 538px;
+    top: 237px;
+}
+#map{
+    position: absolute;
+    width: 746px;
+    height: 730px;
+    left: 538px;
+    top: 237px;
+}
